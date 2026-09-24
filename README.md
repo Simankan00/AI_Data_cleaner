@@ -5,7 +5,7 @@ An autonomous, end-to-end data preparation pipeline that transforms messy tabula
 Unlike static cleaning scripts, this agent features a **Human-in-the-Loop RAG (Retrieval-Augmented Generation) Memory**. It learns from your custom business rules and past corrections, storing them in a local vector database to automatically apply them to future datasets.
 
 ---
-Streamlit Demo :- 
+Streamlit Demo :- https://datacleaner-8bhim6jo7vuxaaqjmpcmgk.streamlit.app/
 
 ## 🚀 Overview
 
