@@ -1,0 +1,14 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Database/Memory
+.cleaning_rag_store/
+
+# OS generated files
+.DS_Store
